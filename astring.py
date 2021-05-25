@@ -1,0 +1,11 @@
+name = "napro"
+#print(name+name)
+len(name)
+print(name.center(50))
+print(name.center(50,"*"))
+print(name.count("a"))
+print(name.ljust(20))
+print(name.rjust(20))
+print(name.lower())
+print(name.find("o"))
+print(name.split("p"))
